@@ -55,16 +55,6 @@ Stay tuned – we'll be updating this README as soon as the vision is officially
 
 ---
 
-## 📊 GitHub Stats
-
-> A quick glance at the organization's activity.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Then-Run&show_icons=true&theme=radical&hide_border=true" alt="Then.Run GitHub stats"/>
-</p>
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions of all kinds – code, docs, ideas, design assets, and more.
