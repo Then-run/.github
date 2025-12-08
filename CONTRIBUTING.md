@@ -56,7 +56,6 @@ Please read it before interacting with the community.
    git clone https://github.com/<YOUR_USERNAME>/<repo-name>.git
    cd <repo-name>
    ```
-````
 
 3. Add the upstream remote to keep your fork in sync:
 
