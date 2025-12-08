@@ -41,7 +41,7 @@ Stay tuned – we'll be updating this README as soon as the vision is officially
 
 |    📖 Docs    |  🌐 Website   |    💬 Chat    |                     📧 Contact                     |
 | :-----------: | :-----------: | :-----------: | :------------------------------------------------: |
-| _Coming soon_ | _Coming soon_ | _Coming soon_ | <a href="mailto:hello@then.run">hello@then.run</a> |
+| _Coming soon_ | _Coming soon_ | [Discord](https://discord.then.run) | <a href="mailto:hello@then.run">hello@then.run</a> |
 
 ---
 
@@ -71,7 +71,7 @@ Check out our **[CONTRIBUTING.md](CONTRIBUTING.md)** for detailed guidelines (ad
 ## 📣 Stay Updated
 
 - **Twitter:** <a href="https://twitter.com/_Then_Run">@_Then_Run</a>
-- **Discord/Slack:** _Coming soon_
+- **Discord/Slack:** [Discord](https://discord.then.run)
 - **Newsletter:** Subscribe via our website _(once live)_
 
 ---
