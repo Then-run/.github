@@ -1,0 +1,50 @@
+name: Feature Request
+description: Suggest a new feature or improvement.
+title: "[Feature] <title>"
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping us grow!  
+        Please describe the feature you’re proposing.
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Motivation
+      description: Why is this feature useful? Who benefits?
+      placeholder: e.g. “Users want a dark mode so they can read at night.”
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution
+      description: How do you envision implementing the feature? (High‑level ideas, UI sketches, API changes, etc.)
+      placeholder: e.g. “Add a `theme` prop to the root component.”
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Mention any other approaches you explored.
+      placeholder: e.g. “Could use CSS variables but that requires a re‑build.”
+    validations:
+      required: false
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      description: How urgent is this feature?
+      options:
+        - Low
+        - Medium
+        - High
+      default: 1
+    validations:
+      required: true
