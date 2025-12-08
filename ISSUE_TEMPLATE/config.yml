@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: General Support
+    url: https://github.com/Then-Run/.github/discussions
+    about: Use Discussions for help, questions, or ideas that don’t fit the bug/feature form.
