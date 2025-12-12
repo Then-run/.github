@@ -8,6 +8,7 @@
        <source media="(prefers-color-scheme: dark)" srcset="/profile/assets/ThenRun_Logo_2.svg" width="800">
        <source media="(prefers-color-scheme: light)" srcset="/profile/assets/ThenRun_Logo_1.svg" width="800">
        <img src="/profile/assets/ThenRun_Logo_2.svg" alt="Then.Run Logo" width="800"/>
+     </picture>
   </a>
 </p>
 
