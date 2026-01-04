@@ -18,7 +18,7 @@
 
 # 👋 Welcome to **Then.Run**
 
-> **Then.Run** is an upcoming open‑source ecosystem focused on building modular tools and workflows.
+> **Then.Run** is an upcoming ecosystem focused on building modular tools and workflows.
 > _More details are coming soon!_
 
 ---
