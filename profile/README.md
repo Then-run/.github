@@ -3,11 +3,11 @@
     <picture width="800">
       <!-- Dark‑mode logo -->
       <source media="(prefers-color-scheme: dark)"
-              srcset="https://raw.githubusercontent.com/Then-Run/then.run/main/profile/assets/ThenRun_Logo_2.svg"
+              srcset="https://raw.githubusercontent.com/Then-Run/.github/refs/heads/main/profile/assets/ThenRun_Logo_2.svg"
               width="800">
       <!-- Light‑mode logo -->
       <source media="(prefers-color-scheme: light)"
-              srcset="https://raw.githubusercontent.com/Then-Run/then.run/main/profile/assets/ThenRun_Logo_1.svg"
+              srcset="https://raw.githubusercontent.com/Then-Run/.github/refs/heads/main/profile/assets/ThenRun_Logo_1.svg"
               width="800">
       <!-- Fallback -->
       <img src="https://raw.githubusercontent.com/Then-Run/then.run/main/profile/assets/ThenRun_Logo_2.svg"
