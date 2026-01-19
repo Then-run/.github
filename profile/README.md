@@ -33,8 +33,6 @@
 
 ## 🚀 Projects
 
-> **Tip:** ⭐️ Star any repo you find interesting!
-
 | Repository | Description | Language |
 | ---------- | ----------- | -------- |
 | [`then-run`](https://github.com/Then-Run/workspace/tree/main) | Core Workspace | `TypeScript` |
