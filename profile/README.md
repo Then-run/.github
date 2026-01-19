@@ -35,14 +35,16 @@
 
 > **Tip:** ⭐️ Star any repo you find interesting!
 
-| Repository | Description | Stars | Language |
-| ---------- | ----------- | ----- | -------- |
-| [`@then.run/ui`](https://github.com/Then-Run/ui) | UI components & utilities for the Then.Run ecosystem. | ![Stars](https://img.shields.io/github/stars/Then-Run/ui?style=social) | `TypeScript` |
-| [`@then.run/core`](https://github.com/Then-Run/core) | Core libraries & utilities powering the ecosystem. | ![Stars](https://img.shields.io/github/stars/Then-Run/core?style=social) | `TypeScript` |
-| [`@then.run/engine`](https://github.com/Then-Run/engine) | Engine to execute nodes. | ![Stars](https://img.shields.io/github/stars/Then-Run/engine?style=social) | `TypeScript` |
-| [`@then.run/nodes-stdlib`](https://github.com/Then-Run/nodes-stdlib) | Standard library nodes for the Then.Run ecosystem. | ![Stars](https://img.shields.io/github/stars/Then-Run/nodes-stdlib?style=social) | `TypeScript` |
-| [`@then.run/nodes-lodash`](https://github.com/Then-Run/nodes-lodash) | Lodash helper nodes. | ![Stars](https://img.shields.io/github/stars/Then-Run/nodes-lodash?style=social) | `TypeScript` |
-| [`@then.run/nodes-hono`](https://github.com/Then-Run/nodes-hono) | Hono framework integration nodes. | ![Stars](https://img.shields.io/github/stars/Then-Run/nodes-hono?style=social) | `TypeScript` |
+| Repository | Description | Language |
+| ---------- | ----------- | -------- |
+| [`then-run`](https://github.com/Then-Run/workspace/tree/main) | Core Workspace | `TypeScript` |
+| [`@then.run/ui`](https://github.com/Then-Run/workspace/tree/main/apps/ui) | UI components & utilities for the Then.Run ecosystem. | `TypeScript` |
+| [`@then.run/server`](https://github.com/Then-Run/workspace/tree/main/apps/server) | Server components & utilities for the Then.Run ecosystem. | `TypeScript` |
+| [`@then.run/core`](https://github.com/Then-Run/workspace/tree/main/packages/core) | Core libraries & utilities powering the ecosystem. | `TypeScript` |
+| [`@then.run/nodes-stdlib`](https://github.com/Then-Run/workspace/tree/main/packages/nodes-stdlib) | Standard library nodes for the Then.Run ecosystem. | `TypeScript` |
+| [`@then.run/nodes-lodash`](https://github.com/Then-Run/workspace/tree/main/packages/nodes-lodash) | Lodash helper nodes. | `TypeScript` |
+| [`@then.run/nodes-hono`](https://github.com/Then-Run/workspace/tree/main/packages/nodes-hono) | Hono framework integration nodes. | `TypeScript` |
+| [`@then.run/nodes-discord`](https://github.com/Then-Run/workspace/tree/main/packages/nodes-discord) | Discord integration nodes. | `TypeScript` |
 
 ---
 
